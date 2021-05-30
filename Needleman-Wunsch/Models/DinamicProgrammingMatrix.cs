@@ -6,7 +6,7 @@
         public char[] LabelsRows { get; set; }
         public char[] LabelsCols { get; set; }
 
-        public DinamicProgrammingMatrix(string sequenceA, string sequenceB)
+        public DinamicProgrammingMatrix()
         {
 
         }
